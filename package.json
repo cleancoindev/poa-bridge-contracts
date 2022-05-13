@@ -23,7 +23,7 @@
     "@0x/sol-coverage": "^3.0.5",
     "@0x/sol-trace": "^2.0.13",
     "@0x/subproviders": "^4.1.0",
-    "ganache-cli": "^6.4.3",
+    "ganache-cli": "^6.12.2",
     "istanbul": "^0.4.5",
     "openzeppelin-solidity": "1.12.0",
     "truffle": "^5.0.15"
